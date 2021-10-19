@@ -1,0 +1,154 @@
+a {
+  text-decoration: none;
+  /* убрал ебучие точки */
+  color: rgb(226, 118, 118);
+  font-family: Gilroy-Bold;
+  /* шрифт */
+  font-family: 'Bebas Neue', cursive;
+}
+
+.navigation_item {
+  list-style-type: none;
+}
+
+.navigation {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px 0%;
+}
+
+.container {
+  padding: 0px 250px;
+  /* оступы */
+}
+
+/*  */
+
+.gorizont_line hr {
+  border: 1px solid #828282;
+}
+
+.gorizont_line-1 hr {
+  border: 1px solid #fff;
+}
+
+.gagaga {
+  text-decoration: none;
+  font-family: Gilroy-Bold;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px 0%;
+  /* распредялет интервалы равномерно между блоками по ширине */
+}
+
+.wrap-image {
+  /* сперва задал просто растяжку, а следующим пунктом растянул изображение  */
+  width: 100%;
+}
+
+.wrap-image img {
+  width: 100%;
+}
+
+.about_me {
+  padding: 60px;
+  background-color: #f6f6f6;
+  text-align: center;
+}
+
+.about_me p {
+  padding: 15px;
+}
+
+.skills .container {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.skills h2,
+.skills #a22 {
+  text-align: center;
+}
+
+.skills .gagaga {
+  padding: 82px 0;
+}
+
+#a22 {
+  padding: 15px;
+}
+
+.skills p {
+  text-align: center;
+}
+
+.a23 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.otstyp {
+  padding-top: 20px;
+}
+
+.portfolio {
+  background-color: #f6f6f6;
+}
+
+.portfolio p,
+h3 {
+  text-align: center;
+}
+
+.block1 {
+  display: block;
+}
+
+.nnn {
+  width: 100%;
+}
+
+.block1 img {
+  width: 100%;
+}
+
+.container2 {
+  padding-top: 112px;
+  padding-bottom: 96px;
+}
+.portfolio {
+  padding: 0 252px;
+}
+
+.block1 p {
+  padding-top: 35px;
+  padding-bottom: 55px;
+  text-decoration-line: underline;
+}
+
+.container2 h3 {
+  padding-bottom: 50px;
+}
+.contacts {
+  text-align: center;
+}
+#okno {
+  color: #fff;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 20px 45px;
+}
+.ssylka {
+  margin: 50px;
+}
+#denis_novik {
+  font-size: 47.3392px;
+  line-height: 59px;
+}
+
+/* медиазапрос для телефонов с разрешением экрана до 425px */
+
